@@ -1,1 +1,1 @@
-# number-game.html
+# number-game
